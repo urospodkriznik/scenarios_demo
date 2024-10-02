@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="82.020828mm"
+   height="14.816666mm"
+   viewBox="0 0 82.020828 14.816666"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-1.0960086,-1.5070118)">
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Optima;-inkscape-font-specification:'Optima Bold Italic';letter-spacing:1.32292px;fill:#000000;stroke-width:0.264583"
+       x="-0.31379724"
+       y="12.566392"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:Optima;-inkscape-font-specification:'Optima Bold Italic';letter-spacing:1.32292px;fill:#000000;stroke-width:0.264583"
+         x="-0.31379724"
+         y="12.566392">Your   Logo</tspan></text>
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       id="path19"
+       d="m 80.990675,129.8907 -1.858045,-2.68622 -6.197638,4.60516 1.980576,-2.59719 -6.294942,-4.47123 3.082108,1.08106 2.307151,-7.36853 -0.07573,3.26532 7.720839,-0.0828 -3.128911,0.93702 z"
+       transform="translate(-34.764865,-116.90163)" />
+  </g>
+</svg>
